@@ -2,3 +2,4 @@ analog-clock/clock
 double-pendulum/pendulum
 function-plotter/plot
 cellular-automata/conway
+cellular-automata/wireworld
