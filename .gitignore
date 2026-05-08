@@ -3,3 +3,4 @@ double-pendulum/pendulum
 function-plotter/plot
 cellular-automata/conway
 cellular-automata/wireworld
+file-watcher/watcher
